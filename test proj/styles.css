@@ -1,0 +1,196 @@
+#title {
+    color: whitesmoke;
+    text-align: left;
+    background-image: url(https://cdn.shopify.com/s/files/1/0281/4171/5501/products/NW34501_2000x2000.jpg?v=1605618254);
+    border-radius: 25px;
+    padding: 20px;
+    font-size: 25px;
+    max-height: 450px;
+}  
+
+h1 {
+    font-family: 'Bangers'; 
+    font-size: 75px;
+}
+
+nav {
+    display: block;
+    color: aliceblue;
+    text-align: right;
+    
+}
+
+.nav-link {
+    color: black;
+    position: relative;
+    padding: 8px;
+    background-color: yellow;
+    text-decoration: none;
+    margin-right: 25px;
+    top: 10px;
+
+
+
+}
+
+#icon {
+   position: relative;
+   top: 140px; 
+   font-size: 48px;
+   padding-right: 15px;
+}
+
+
+a:hover {
+    background-color: rgb(62, 60, 60);
+}
+
+body {
+    background-color: rgb(33, 32, 32);
+}
+
+#explore {
+    margin-bottom: 50px;
+    font-size: xx-large;
+}
+
+.section1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#top {
+    display: block;
+    background-color: black;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+}
+
+img{
+ max-width: 50%;
+ max-height: auto;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ padding-top: 50px;
+}
+
+b {
+    color: rgb(184, 181, 22);
+}
+
+#heading {
+    font-size: xx-large;
+    display: block;
+    background-color: rgb(184, 181, 22);
+    color: black;
+}
+
+#heading1 {
+    font-size: xx-large;
+    display: block;
+    background-color: rgb(70, 42, 2);
+    color: black;
+}
+
+
+#gallery {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 0 4px;
+}
+
+#gallery img {
+    width: 30%;
+    height: 400px;
+    object-fit: cover;
+    margin-top: 0px;
+    padding-top: 0px;
+
+    border-radius: 10px;
+  }
+
+
+  #names{
+    color: aliceblue;
+    padding-top: 15px;
+    margin-bottom: 0px;
+  }
+
+  .cactus {
+    font-family: 'Barrio';
+    font-size: 30px;
+  }
+
+  .mankind {
+    font-family: 'Butcherman';
+    font-size: 40px;
+  }
+
+  .dude {
+    font-family: 'Bungee Shade';
+    font-size: 30px;
+  }
+
+
+#wiki {
+    text-align: center;
+}
+
+
+li {
+    display: block;
+    text-align: center;
+    padding: 15px;
+    color: aliceblue;
+}
+
+#barrier {
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-bottom: -20px;
+    height: 50px;
+    background-color: black;
+    padding: 0px;
+}
+
+#test {
+    max-width: 75%;
+    height: 5px;
+    background-color: yellow;
+    border-color: yellow;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#invisible {
+    height: 10px;
+    visibility: hidden;
+    
+}
+
+.quote{
+    text-align: center;
+    font-size: xx-large;
+    color: aqua;
+}
+
+#signature {
+    margin: 50px;
+}
+
+#labels {
+    font-family: 'Bad Script';
+    font-size: larger;
+}
+
+#background {
+    background-image: url(https://img.freepik.com/premium-vector/desert-with-sand-mountains-cactus-landscape-day-time-scene_1308-52778.jpg?w=1060);
+}
+
